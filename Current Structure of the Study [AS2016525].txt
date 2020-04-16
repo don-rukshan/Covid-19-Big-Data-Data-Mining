@@ -1,14 +1,16 @@
-1. Understandig the Global Economic Impacts of COVID 19 and current economists predictions
+Economic Impacts of Covid 19 
+[Containing the disease vs sustaining normal economic activities]
 
-2. Understandig the Sri Lankan Economic Impacts of COVID 19
 
-3. Covid 19 vs Local Economy with or without curfew / lockdown
+1. Understandig the Global and Sri Lankan Economic Impacts of COVID 19
 
-4. Practical situations and ethical behaviour of the options
+2. Local Economy with or without curfew / lockdown
 
-5. Understanding the best options using the big data and data mining techniques
+3. Practical situations and ethical behaviour of the options
 
-6. Find and utilize a suitable algorithm to achieve the best sufficient output for the available set of data.
+4. Understanding the best options using the big data and data mining techniques
+
+5. Find and utilize a suitable algorithm to achieve the best sufficient output for the available set of data.
 
 
 
