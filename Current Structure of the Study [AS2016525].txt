@@ -1,12 +1,14 @@
 Economic Impacts of Covid 19 
-[Containing the disease vs sustaining normal economic activities]
+----------------------------------------
+
+Objective : Find the best solution whether to Containing the disease or sustain normal economic activities using the available social media 
 
 
 1. Understandig the Global and Sri Lankan Economic Impacts of COVID 19
 
-2. Local Economy with or without curfew / lockdown
+2. Local Economy with or without curfew / lockdown using social media
 
-3. Practical situations and ethical behaviour of the options
+3. Practical situations and ethical behaviour of the current options according to the social media
 
 4. Understanding the best options using the big data and data mining techniques
 
